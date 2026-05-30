@@ -19,5 +19,10 @@ window.PROJECT_IMAGES = [
   {
     src: "assets/projects/Akash Navi.jpg",
     alt: "Kitchen interior project render"
+  },
+  
+  {
+    src: "assets/projects/bedroom view.png",
+    alt: "Kitchen interior project render"
   }
 ];
